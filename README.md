@@ -81,7 +81,9 @@ npm run dev
 yarn dev
 ```
 Open [http://localhost:5173](http://localhost:5173) in your browser.
-
+ 
+if some errorsshows up like compromise an dsome install these too  
+ npm install compromise tesseract.js
 ---
 
 ## Usage
